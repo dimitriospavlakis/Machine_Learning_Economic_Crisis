@@ -1,4 +1,4 @@
-# Machine Learning, Feature Engineering, and EDA for Economic Crises in Africa
+# Machine Learning, Feature Engineering, and EDA for Economic Crises
 
 This python project provides a comprehensive overview on how to perform data modelling, feature engineering, predictor selection and machine learning using economic data across 13 African countries between 1840 and 2014.
 
